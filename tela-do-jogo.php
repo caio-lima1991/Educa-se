@@ -73,7 +73,7 @@
         <p id="casa11-morador"></p>
       </div>
       <div class="cell info">
-        <p>Ultima Mensagem:</p>
+        <p>Sara:</p>
         <p id="messagePara"></p>
 
       </div>

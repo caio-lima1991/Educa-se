@@ -39,7 +39,7 @@
               if ($row['username'] === $username && $row['password'] === $password) {  
                       header("Location: tela-do-jogo.php?msg=login realizado com sucesso");
                   } else {
-                      header("Location: login.php?home");
+                      header("Location: login.php?mmsg=falha ao realizar o login");
                   }              
             }
         }
